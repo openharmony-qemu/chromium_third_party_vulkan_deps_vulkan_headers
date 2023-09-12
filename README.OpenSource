@@ -1,7 +1,7 @@
 [
     {
-        "Name": "chromium_third_party_vulkan_deps_vulkan_headers",                   # 上游开源软件名全称
-        "License": ,         # 上游开源软件中包含的许可证信息
+        "Name": "Vulkan-Headers",                   # 上游开源软件名全称
+        "License": "Apache-2.0",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "0873a22a11ec7e3f13762900ad0da39206189886",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Headers@0873a22a11ec7e3f13762900ad0da39206189886",   # 上游软件包发布地址

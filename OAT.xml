@@ -63,12 +63,11 @@ used to filter file path.
         <filefilterlist>
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
-               
             </filefilter>
 
             <filefilter name="defaultFilter">
                 <filteritem type="filepath" name="README.OpenSource"
-                    desc="" />
+                    desc="Filter readme.opensource files" />
             </filefilter>
         </filefilterlist>
     </oatconfig>

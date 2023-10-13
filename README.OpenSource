@@ -1,11 +1,11 @@
 [
     {
-        "Name": "Vulkan-Headers",                   # 上游开源软件名全称
-        "License": "Apache-2.0",         # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE.txt"     # 许可证所在文件路径
+        "Name": "Vulkan-Headers",                 
+        "License": "Apache-2.0",         
+        "License File": "LICENSE.txt",    
         "Version Number": "0873a22a11ec7e3f13762900ad0da39206189886",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Headers@0873a22a11ec7e3f13762900ad0da39206189886",   # 上游软件包发布地址
-        "Description": "第三方软件vulkan-deps/vulkan-headers"           # 开源软件功能描述
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Headers@0873a22a11ec7e3f13762900ad0da39206189886",  
+        "Description": "第三方软件vulkan-deps/vulkan-headers"          
     }
 ]

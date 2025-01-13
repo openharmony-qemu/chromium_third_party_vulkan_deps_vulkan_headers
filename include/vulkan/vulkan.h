@@ -96,4 +96,7 @@
 #include "vulkan_beta.h"
 #endif
 
+#ifdef VK_USE_PLATFORM_OHOS
+#include "vulkan_ohos.h"
+#endif
 #endif // VULKAN_H_

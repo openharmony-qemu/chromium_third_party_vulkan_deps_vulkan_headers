@@ -43,6 +43,9 @@ config("vulkan_headers_config") {
   if (defined(is_ggp) && is_ggp) {
     defines += [ "VK_USE_PLATFORM_GGP" ]
   }
+  if (is_ohos) {
+    defines += [ "VK_USE_PLATFORM_OHOS" ]
+  }
   if (is_clang) {
     cflags = [
       "-Wno-redundant-parens",

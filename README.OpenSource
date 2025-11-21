@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "Vulkan-Headers",                 
+        "License": "Apache-2.0",         
+        "License File": "LICENSE.txt",    
+        "Version Number": "cbcad3c0587dddc768d76641ea00f5c45ab5a278",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Headers@cbcad3c0587dddc768d76641ea00f5c45ab5a278",  
+        "Description": "第三方软件vulkan-deps/vulkan-headers"          
+    }
+]
